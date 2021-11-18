@@ -1,1 +1,1 @@
-# Input-Prototype
+# Input Prototype
