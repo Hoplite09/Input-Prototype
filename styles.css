@@ -1,0 +1,17 @@
+body {
+    background-color: #2290d4;
+    color: #ffffff;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:url(img/maxresdefault.jpg); 
+}
+hr {background-color: #ffffff;}
+
+h3 {
+    text-decoration: underline;
+}
+
+.input input {
+    box-sizing: border-box;
+    background-color: chartreuse;
+}
